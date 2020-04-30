@@ -1,0 +1,3 @@
+Run run to select an image and output search results
+Run cluzhibiao to get the overall result of the algorithm on the data set, accuracy
+change the weight to analyze the effect of features on the results
